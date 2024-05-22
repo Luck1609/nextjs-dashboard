@@ -1,5 +1,3 @@
-// import SideNav from '@/app/ui/dashboard/sidenav';
-
 import SideNav from "./sidenav";
 
  
